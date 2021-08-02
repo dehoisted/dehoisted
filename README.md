@@ -5,7 +5,7 @@
 
 - About me
   - I mostly do C++ and C#. 
-  I sometimes do Python, Lua, Luau, and some Batch
+  - I sometimes do Python, Lua, Luau, and some Batch
   - Interested in reverse engineering, game cheats, malware analysis, windows software, roblox scripting, and more
 - My Telegram: https://t.me/Constex
 
